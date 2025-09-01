@@ -1,0 +1,102 @@
+
+============================================================
+🧾 SALES PERFORMANCE SUMMARY REPORT
+============================================================
+📅 Report Generated On: 2025-09-01 21:30:38.762776
+👤 Analyst: Aman
+------------------------------------------------------------
+🔹 FINANCIAL OVERVIEW
+------------------------------------------------------------
+• Total Tax Paid: ₹8,807.97
+• Total Amount Sold: ₹56,663.46
+• Net Revenue Generated: ₹40,928.63
+• Total Discount Given: ₹1,254.70
+------------------------------------------------------------
+📊 AVERAGE METRICS
+------------------------------------------------------------
+• Average Order Value: ₹11,332.69
+• Average Discount Applied per Order: ₹250.94
+------------------------------------------------------------
+📦 SALES BY CATEGORY
+------------------------------------------------------------
+Category
+Beauty      4314.57
+Grocery    23354.31
+Home       28994.58
+------------------------------------------------------------
+🚚 SALES BY DELIVERY STATUS
+------------------------------------------------------------
+Delivery Status
+Delivered     13922.65
+In-Transit    38541.39
+Shipped        4199.42
+------------------------------------------------------------
+💳 SALES BY PAYMENT METHOD
+------------------------------------------------------------
+Payment Method
+Credit Card    24795.16
+Net Banking    31868.30
+------------------------------------------------------------
+📈 AVERAGE ORDER VALUE BY CATEGORY
+------------------------------------------------------------
+Category
+Beauty      4314.570
+Grocery    11677.155
+Home       14497.290
+============================================================
+📌 NOTES
+============================================================
+This report provides a consolidated view of sales performance across key dimensions including product category, delivery efficiency, and payment trends. It is designed to support strategic decisions in inventory planning, marketing optimization, and customer engagement.
+End of Report
+============================================================
+
+============================================================
+🧾 SALES PERFORMANCE SUMMARY REPORT
+============================================================
+📅 Report Generated On: 2025-09-01 22:41:27.843741
+👤 Analyst: Aman
+------------------------------------------------------------
+🔹 FINANCIAL OVERVIEW
+------------------------------------------------------------
+• Total Tax Paid: ₹8,807.97
+• Total Amount Sold: ₹56,663.46
+• Net Revenue Generated: ₹40,928.63
+• Total Discount Given: ₹1,254.70
+------------------------------------------------------------
+📊 AVERAGE METRICS
+------------------------------------------------------------
+• Average Order Value: ₹11,332.69
+• Average Discount Applied per Order: ₹250.94
+------------------------------------------------------------
+📦 SALES BY CATEGORY
+------------------------------------------------------------
+Category
+Beauty      4314.57
+Grocery    23354.31
+Home       28994.58
+------------------------------------------------------------
+🚚 SALES BY DELIVERY STATUS
+------------------------------------------------------------
+Delivery Status
+Delivered     13922.65
+In-Transit    38541.39
+Shipped        4199.42
+------------------------------------------------------------
+💳 SALES BY PAYMENT METHOD
+------------------------------------------------------------
+Payment Method
+Credit Card    24795.16
+Net Banking    31868.30
+------------------------------------------------------------
+📈 AVERAGE ORDER VALUE BY CATEGORY
+------------------------------------------------------------
+Category
+Beauty      4314.570
+Grocery    11677.155
+Home       14497.290
+============================================================
+📌 NOTES
+============================================================
+This report provides a consolidated view of sales performance across key dimensions including product category, delivery efficiency, and payment trends. It is designed to support strategic decisions in inventory planning, marketing optimization, and customer engagement.
+End of Report
+============================================================
