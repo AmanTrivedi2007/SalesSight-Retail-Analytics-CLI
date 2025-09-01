@@ -1,0 +1,6 @@
+Order ID,Order Date,Customer ID,Customer Name,Product ID / SKU,Product Name,Category,Brand,Quantity Sold,Unit Price,Total Amount,Discount Applied,Shipping Charges,Net Revenue,Currency,Payment Method,Fulfilled By,Delivery Status,Delivery Date,Warehouse Location,Shipping Partner,Customer Region,Stock Level,Profit Margin,Sales Channel
+ORD00001,2024-10-12,CUST3592,Customer 142,SKU48471,Vitamin C Serum,Beauty,GlowUp,1,3748.29,4314.57,187.41,79,3272.24,INR,Net Banking,Warehouse A,Delivered,2024-10-14,Bengaluru,BlueDart,Central,26,0.1,Marketplace
+ORD00002,2024-06-09,CUST2782,Customer 490,SKU18627,Almonds 500g,Grocery,GoodGrain,5,2329.87,13746.23,0.0,0,8500.75,INR,Net Banking,3PL Partner,In-Transit,2024-06-13,Delhi,Delhivery,North,216,0.07,Website
+ORD00003,2024-12-12,CUST8641,Customer 188,SKU30053,LED Lamp,Home,CasaPro,5,4202.57,24795.16,0.0,0,19166.52,INR,Credit Card,Warehouse A,In-Transit,2024-12-14,Delhi,Ecom Express,East,250,0.17,Marketplace
+ORD00004,2024-10-20,CUST3451,Customer 489,SKU20565,Pasta Pack,Grocery,GoodGrain,2,4411.61,9608.08,882.32,79,6648.08,INR,Net Banking,3PL Partner,Delivered,2024-10-26,Hyderabad,BlueDart,Central,226,0.16,Retail Store
+ORD00005,2024-09-09,CUST6613,Customer 333,SKU41522,Ceramic Vase,Home,Decora,3,1233.16,4199.42,184.97,19,3341.04,INR,Net Banking,3PL Partner,Shipped,2024-09-12,Hyderabad,BlueDart,North,60,0.12,Mobile App
